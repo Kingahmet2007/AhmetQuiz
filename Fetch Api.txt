@@ -1,0 +1,126 @@
+ {
+    "response_code": 0,
+    "results": [
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What does a funambulist walk on?",
+            "correct_answer": "A Tight Rope",
+            "incorrect_answers": [
+                "Broken Glass",
+                "Balls",
+                "The Moon"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Area 51 is located in which US state?",
+            "correct_answer": "Nevada",
+            "incorrect_answers": [
+                "Arizona",
+                "New Mexico",
+                "Utah"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "On a dartboard, what number is directly opposite No. 1?",
+            "correct_answer": "19",
+            "incorrect_answers": [
+                "20",
+                "12",
+                "15"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+            "correct_answer": "Libra",
+            "incorrect_answers": [
+                "Gemini",
+                "Taurus",
+                "Capricorn"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In which fast food chain can you order a Jamocha Shake?",
+            "correct_answer": "Arbys",
+            "incorrect_answers": [
+                "McDonalds",
+                "Burger King",
+                "Wendys"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of NASAs most famous space telescope?",
+            "correct_answer": "Hubble Space Telescope",
+            "incorrect_answers": [
+                "Big Eye",
+                "Death Star",
+                "Millenium Falcon"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the author of Jurrasic Park?",
+            "correct_answer": "Michael Crichton",
+            "incorrect_answers": [
+                "Peter Benchley",
+                "Chuck Paluhniuk",
+                "Irvine Welsh"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the profession of Elon Musks mom, Maye Musk?",
+            "correct_answer": "Model",
+            "incorrect_answers": [
+                "Professor",
+                "Biologist",
+                "Musician"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who invented the first ever chocolate bar, in 1847?",
+            "correct_answer": "Joseph Fry",
+            "incorrect_answers": [
+                "Andrew Johnson",
+                "John Cadbury",
+                "John Tyler"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In aerodynamics, which force pushes an object upwards?",
+            "correct_answer": "Lift",
+            "incorrect_answers": [
+                "Drag",
+                "Weight",
+                "Thrust"
+            ]
+        }
+    ]
+}
+
